@@ -1,0 +1,2 @@
+# Sorting-Algorithm-Visualizatio
+ Sorting algorithm visualization refers to the graphical representation of how different sorting algorithms operate on a set of data. It provides a visual demonstration of the step-by-step process involved in sorting elements in a specific order. The visualization helps in understanding how these algorithms work and how they compare in terms of efficiency and performance.
