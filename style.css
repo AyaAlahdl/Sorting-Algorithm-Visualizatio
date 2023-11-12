@@ -1,0 +1,61 @@
+
+body {
+   font-family: Arial, sans-serif;
+   background-color:aliceblue;
+   margin: 0;
+   padding: 0;
+ }
+
+ #visualization-container {
+   display: flex;
+   justify-content: center;
+   align-items: flex-end;
+   height: 400px;
+   background-color: #fff;
+   padding: 20px;
+ }
+
+ .sorting-element {
+   width: 20px;
+   margin-right: 5px;
+   background-color: aquamarine;
+ }
+
+ .control-container {
+   margin-top: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .control-label {
+   margin-right: 10px;
+   font-weight: bold;
+ }
+
+ .control-select {
+   margin-right: 30px;
+   background-color: #fff;
+   border-color: #ccc;
+   border-radius: 5px;
+   padding: 10px;
+ }
+
+ .control-range {
+   width: 200px;
+ }
+
+ .control-button {
+   margin: 0 2px;
+   margin-right: 30px;
+   background-color: #fff;
+   border-radius: 5px;
+   border-color: #ccc;
+   padding: 10px 20px;
+ }
+
+ h1 {
+   color: #4eeaff;
+   text-align: center;
+   margin-top: 30px;
+ }
